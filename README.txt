@@ -1,0 +1,1 @@
+Java web application in MVC with Jersey for RESTful web service, but it cannot deal with the RESTful interface(jsp) to the client
